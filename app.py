@@ -4,7 +4,7 @@ app = Flask(__name__)
 
 # Sample products
 products = [
-    {"id": 1, "name": "i phone", "price": "$49.99", "image": "https://via.placeholder.com/150"},
+    {"id": 1, "name": "Samsung phone", "price": "$49.99", "image": "https://via.placeholder.com/150"},
     {"id": 2, "name": "Smart Watch", "price": "$79.99", "image": "https://via.placeholder.com/150"},
     {"id": 3, "name": "Gaming Mouse", "price": "$29.99", "image": "https://via.placeholder.com/150"},
 ]
